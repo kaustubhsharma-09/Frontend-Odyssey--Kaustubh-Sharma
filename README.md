@@ -82,7 +82,7 @@ src/
 
 ---
 
-## 📝 Project Description (200–300 words)
+## 📝 Project Description 
 
 *The Life of a Developer* is an interactive narrative website built for the Frontend Odyssey Hackathon under Theme 5. Rather than presenting information statically, the experience unfolds as the user scrolls through five distinct chapters, each recreating a universal milestone in a developer's career.
 
